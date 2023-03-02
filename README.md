@@ -41,9 +41,9 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 • O maior valor de faturamento ocorrido em um dia do mês;
 • Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
-IMPORTANTE:
-a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+IMPORTANTE:<br>
+a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;<br>
+b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;<br>
 <br>
 <br>
 
@@ -63,8 +63,8 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 
 ## 💻 Desafio 5 - Caracteres de um string:
 
-5) Escreva um programa que inverta os caracteres de um string.
+5) Escreva um programa que inverta os caracteres de um string.<br>
 
-IMPORTANTE:
-a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-b) Evite usar funções prontas, como, por exemplo, reverse;
+IMPORTANTE:<br>
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;<br>
+b) Evite usar funções prontas, como, por exemplo, reverse;<br>
